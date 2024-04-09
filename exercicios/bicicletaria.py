@@ -5,5 +5,6 @@ class Bicicletas:
         self.ano = ano 
         self.valor = valor
 
+    
 
 b1 = Bicicletas('vermelha', 'caloi','2007', 30000)
