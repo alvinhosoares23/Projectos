@@ -41,3 +41,5 @@ print(b1)
 b1.aumentar_Velocidade()
 b1.andar()
 b1.parar
+
+
