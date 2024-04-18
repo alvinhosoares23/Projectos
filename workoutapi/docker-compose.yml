@@ -1,0 +1,10 @@
+version: '1.25.0'
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_USER: estagio
+      POSTGRES_DB: workout
+    ports:
+      - "5432:5432"
