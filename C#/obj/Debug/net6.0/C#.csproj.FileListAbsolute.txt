@@ -1,0 +1,15 @@
+/home/estagio/Documentos/repo/C#/bin/Debug/net6.0/C#
+/home/estagio/Documentos/repo/C#/bin/Debug/net6.0/C#.deps.json
+/home/estagio/Documentos/repo/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/estagio/Documentos/repo/C#/bin/Debug/net6.0/C#.dll
+/home/estagio/Documentos/repo/C#/bin/Debug/net6.0/C#.pdb
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.dll
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/refint/C#.dll
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.pdb
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/estagio/Documentos/repo/C#/obj/Debug/net6.0/ref/C#.dll

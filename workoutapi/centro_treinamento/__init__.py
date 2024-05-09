@@ -1,2 +1,2 @@
 from . import schemas
-from . import user
+from . import centro_treinamento
